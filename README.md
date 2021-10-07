@@ -1,4 +1,4 @@
 # Frontend Mentor Projects
 This is a list of the projects I have done from [Frontend Mentor](https://frontendmentor.io)
 
-- [Order Summary Card]()
+- [Order Summary Card](https://github.com/peter-abah/order-summary-card/)
